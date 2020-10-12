@@ -77,35 +77,34 @@ Git-flow에는 5가지 종류의 브랜치가 존재합니다. 항상 유지되�
 
 1. 공모전 / 프로젝트 목록 
 
-![UCC Final_20201009_145106](README_assets/UCC Final_1.gif)
+![UCC_Final_1](README_assets/UCC_Final_1.gif)
 
 
 
 2. 공모전 팀 모집 및 지원 
 
-   ![UCC Final_20201009_145133](README_assets/UCC Final_2.gif)
+![UCC_Final_2](README_assets/UCC_Final_2.gif)
 
 
 
 3. 개인 프로젝트 팀 모집 및 지원
 
-![UCC Final_20201009_145231](README_assets/UCC Final_3.gif)
+![UCC_Final_3](README_assets/UCC_Final_3.gif)
 
 
 
 4. SNS 기능 (팔로우, 좋아요, 게시글, 태그, 댓글, 채팅 등)
 
-![UCC Final_20201009_145349](README_assets/UCC Final_4.gif)
+![UCC_Final_4](README_assets/UCC_Final_4.gif)
 
 
 
 5. 팀원들과의 일정 관리 및 장소 추천
 
-![UCC Final_20201009_145419](README_assets/UCC Final_5.gif)
+![UCC_Final_5](README_assets/UCC_Final_5.gif)
 
 
 
 6. 웹 / 모바일 반응형 
 
-
-![UCC Final_20201009_145451](README_assets/UCC Final_6.gif)
+![UCC_Final_6](README_assets/UCC_Final_6.gif)
